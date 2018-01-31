@@ -30,7 +30,7 @@ To ensure security, the operations of the Cooperative, from 3P creation to votin
 
 The Global Cooperative thus has features of an online developer network, a democratic state, a savings cooperative, and a social investment fund. These parts sum to something larger, however. They are the constituent elements of a flexible, decentralized global governance structure, complete with a budget, democratic structure, and a guiding political purpose: the mobilization of ideas and resources to manage the world’s collective goods.
 
-#Model
+# Model
 
 ## Why Global Challenges Exist: The Collective Action Problem
 
@@ -54,7 +54,7 @@ The affairs of government, however, are also fraught with difficulty. Fairly agg
 
 This is not so at the international level. The last one hundred years of world history suggests that creating a strong, centralized global government that can correct transnational market failures by imposing taxes, regulations, and punishments may not be possible. Even in the face of existential challenges, countries value their sovereignty—or perhaps more accurately, political elites in countries, whether motivated by public spirit or personal ambition, value their autonomy—too highly to cede power to a higher body [13].
 
-1.2  Peace, Health, and Nature: The World’s Collective Goods
+###  Peace, Health, and Nature: The World’s Collective Goods
 
 We focus in this proposal on the governance of three global collective goods: peace, human health, and the natural environment.
 
@@ -66,7 +66,7 @@ Nature is a global collective good. Climate change is increasing the frequency o
 
 In the absence of a global government, protection of these goods internationally is stymied by the collective action problem. For example, the great powers have often vetoed international attempts to control the arms trade; emerging economies argue that emissions reductions and biodiversity conservation will stunt economic growth; and pandemics are often dismissed by the industrialized world as a problem of poor countries.
 
-1.3  The Quadrillion Dollar Scale: The Value of Global Collective Goods
+###  The Quadrillion Dollar Scale: The Value of Global Collective Goods
 
 Collective goods embody the human and natural capital that are the basis of the global economy. When war, hunger, and disease destroy livelihoods, or when ecosystems are razed for short-term profit, these stocks of capital degrade and lose value. Durable peace, high-quality health care systems, and the sustainable use of the world’s ecosystem services, in contrast, unlock human potential, engender innovation, and lead to growth in the value of human and natural capital stocks.
 
@@ -74,11 +74,11 @@ The stakes are very high. The net present value (NPV) of the current stock of hu
 
 In the pages that follow, we describe an institutional architecture to manage global collective goods effectively. Our proposed solution is neither a state nor a market, but rather another kind of human organization specialized to address collective action problems: the cooperative. Cooperatives are groups of people who pool their stocks of human and financial capital for a democratically agreed-upon set of goals; in 2016, cooperatives across the world had a total turnover of nearly $3 trillion [23]. Unlike states, membership in cooperatives is not necessarily constrained by political borders. Unlike (most) market firms, decision-making in cooperatives is democratic, profits are shared equitably, and survival is not necessarily tied to short-term profitability or competitiveness; cooperatives can function as vehicles for long-term social change. Our proposal mixes these traditional features with a digital infrastructure to build a model for flexible collective goods governance.
 
-2. How Collective Goods are Managed: The Global Cooperative
+## How Collective Goods are Managed: The Global Cooperative
 
 The mission of the Global Cooperative is to involve the world’s people in the work of restoring, maintaining, and enhancing the value of the world’s collective goods. To carry out this mission, the Cooperative relies on the pooling of ideas and resources, facilitated by a digital infrastructure; global delegative (“liquid”) democracy; and a diverse, coordinated set of collective goods, policies, programs, and projects (3Ps) implemented in partnership with states and markets.
 
-2.1  The Core Design Principle: Empowering Individuals to Cooperate
+### The Core Design Principle: Empowering Individuals to Cooperate
 
 The workings of the Cooperative are based on communication and negotiation between individuals, not nations or other identity groups. This focus on the empowerment of individuals acknowledges two fundamental facts.
 
@@ -88,7 +88,7 @@ Second, there is clearly a strong appetite around the globe for a more participa
 
 Based on these observations, we propose that global collective goods can (only) be managed by self-organized groups of individuals, through a decentralized organization complementary to states and markets.
 
-2.2  How the Cooperative Creates Solutions: A Network of Ideas
+### How the Cooperative Creates Solutions: A Network of Ideas
 
 The Cooperative begins by conferring voting shares. Every woman and man in the world age 18 and older is entitled to a voting share in the Cooperative; this share signifies “virtual citizenship” in a global community. Through their participation in the Cooperative, these individuals serve as trustees of the world’s collective goods—temporary custodians for the next generation.
 
@@ -106,7 +106,7 @@ Experience with peer-production platforms such as GitHub (the main repository fo
 
 Overall, this social structure is designed to eliminate the informational and communication-related barriers to collective action. It also provides the foundation for the Cooperative’s political processes, described below.
 
-2.3  How the Cooperative Chooses Solutions: Liquid Democracy
+### How the Cooperative Chooses Solutions: Liquid Democracy
 
 The political structure of the Cooperative is explicitly designed to address some of the most pressing problems of democracy in the world today. Formal and informal veto players at the international and national levels—great powers, heads of state, business interests, etc.—obstruct avenues for global collective action. Direct democracy sometimes leads to majoritarian tyranny, while representative democracy often results in the creation of a professional class of policymakers with little accountability between elections, which gives rise to the threats of collusion and corruption. Citizens lack a source of objective information on which to base decisions; ideological echo chambers reinforce, instead of challenge, pre-existing beliefs. In sum, citizens’ participation in politics all over the world is characterized by feelings of frustration, isolation, and helplessness.
 
@@ -120,7 +120,7 @@ Within each council, the elected Councilors have the responsibility of choosing 
 
 Finally, disputes—for instance, when a minority constituency is threatened by a majority-approved 3P—are adjudicated by a High Council consisting of nine members: the five citizen-trustees with the highest reputation, and four individuals nominated by the United Nations General Assembly. The High Council also has the responsibility to ensure that 3Ps do not interfere with states’ sovereignty or violate any other provision of the Constitution of the Global Cooperative (Section 3). If such violations occur, the High Council can block a 3P’s financing, though this 3P can be reintroduced in revised form through the Cooperative’s regular process. With members both internal and external to the Cooperative, the High Council provides an important check to the organization’s liquid-democratic structure, while staying engaged with the broader global governance agenda.
 
-2.4  How the Cooperative Funds Solutions: The Collaborative Economy
+### How the Cooperative Funds Solutions: The Collaborative Economy
 
 The Cooperative’s impact on real-world collective goods comes through its financing of a coordinated set of 3Ps. In order to build the pool of capital necessary for such financing, the Cooperative sells investment shares at a fixed price. In addition to funding 3Ps, the capital raised from shares finances the operations of the Cooperative, including maintenance of the social network, information repository, and so on. The Cooperative will also raise funds to distribute shares to those who cannot afford the share price, concentrating especially on individuals and groups who have a strong real-world reputation for effective collective goods management. The amount of total shares available is unlimited; any capital that the Cooperative cannot meaningfully invest in 3Ps will be placed in a social impact investment portfolio proposed and approved through the Cooperative’s regular process.
 
@@ -134,15 +134,14 @@ From an economic perspective, the councils are tasked with increasing the long-t
 
 To further increase security and guard against the volatility of global financial markets, transactions are conducted in a digital “cryptocurrency” created specifically for the Cooperative; shares, however, are able to be resold at any point for any currency, at current exchange rates. The underlying distributed database—the “blockchain” [30-31]—provides a secure, transparent record of all transactions, as well as of all other operations of the Cooperative, including votes, delegations, and so on. This cryptocurrency also has the advantage of being strongly tied to the success of the 3Ps. Higher 3P market returns increase the demand for shares—and consequently, demand for the cryptocurrency in which the shares are valued. Greater demand increases the currency’s price, catalyzing a virtuous cycle: better management of the world’s collective goods raises revenue for Cooperative citizens, attracts even more potential shareholders, and thereby enlarges the pool of available capital for investment.
 
-*      *      *
 
 In its vision of a network of individuals sharing ideas, a liquid-democratic voting structure, and common financing of collective goods 3Ps, the Cooperative builds the foundation for a new kind of economy and polity: participatory and geared towards socially valuable work, with rewards coming through not only monetary returns but also social reputation and, importantly, personal fulfillment.
 
-3. The Constitution of the Global Cooperative
+## The Constitution of the Global Cooperative
 
 In this final section, we present a Constitution that summarizes the core principles and operating structure of the Cooperative. This Constitution is in draft form; we envision a process by which all people interested in forming the Cooperative work together to produce a final text. The New Shape Prize will provide the seed money for this process.
 
-Preamble
+### Preamble
 
 Considering that
 
@@ -156,65 +155,65 @@ And that
 
 We establish a decentralized organization, the Global Cooperative, to restore, safeguard, and enhance humanity’s collective goods: peace, health, and nature.
 
-Article 1. General Principles
+### Article 1. General Principles
 
-1  Fundamental equality. Every woman, man, and child in the world has the same intrinsic value, and the actions of the Cooperative, in its efforts to protect peace, health, and nature, will affirm this fundamental equality. This equality extends into the future: the decisions of the Cooperative will take into account the needs of generations to come.
+1.  Fundamental equality. Every woman, man, and child in the world has the same intrinsic value, and the actions of the Cooperative, in its efforts to protect peace, health, and nature, will affirm this fundamental equality. This equality extends into the future: the decisions of the Cooperative will take into account the needs of generations to come.
 
-2   Individual autonomy. The Cooperative shall advance the right of each individual to think, speak, and act without interference by states or other groups, insofar as actions do not interfere with the rights of other individuals to do the same.
+2.  Individual autonomy. The Cooperative shall advance the right of each individual to think, speak, and act without interference by states or other groups, insofar as actions do not interfere with the rights of other individuals to do the same.
 
-3  Cooperative action. The Cooperative will be guided by its objective of building a structure in which individuals can safely work together for mutual benefit in social, political, and economic spheres.
+3.  Cooperative action. The Cooperative will be guided by its objective of building a structure in which individuals can safely work together for mutual benefit in social, political, and economic spheres.
 
-Article 2. Social Rights & Responsibilities
+### Article 2. Social Rights & Responsibilities
 
-1  Voting shares and citizen-trusteeship. Each woman and man in the world above the age of 18 is entitled to one voting share that confers the right to participate in the Cooperative as an equal citizen, as well as the responsibility to participate in the trusteeship of the world’s collective goods.
+1.  Voting shares and citizen-trusteeship. Each woman and man in the world above the age of 18 is entitled to one voting share that confers the right to participate in the Cooperative as an equal citizen, as well as the responsibility to participate in the trusteeship of the world’s collective goods.
 
-2  Digital identity. Possessing a voting share allows the citizen-trustee to create an online digital identity. The citizen-trustee’s true demographic information is secure and not publicly available.
+2.  Digital identity. Possessing a voting share allows the citizen-trustee to create an online digital identity. The citizen-trustee’s true demographic information is secure and not publicly available.
 
-3  Digital access and literacy. Recognizing that access to the Cooperative’s digital infrastructure is partially determined by socioeconomic status, geographical location, and knowledge, the Cooperative has the responsibility of expanding global digital access and digital literacy.
+3.  Digital access and literacy. Recognizing that access to the Cooperative’s digital infrastructure is partially determined by socioeconomic status, geographical location, and knowledge, the Cooperative has the responsibility of expanding global digital access and digital literacy.
 
-4  Social network & open-source collaboration. The possession of a voting share also enrolls the citizen-trustee in the Cooperative’s social network, within which s/he has the right to communicate with other citizen-trustees, collaborate on the creation of policies, programs, and projects, and provide feedback on the ideas and actions of the Cooperative community.
+4.  Social network & open-source collaboration. The possession of a voting share also enrolls the citizen-trustee in the Cooperative’s social network, within which s/he has the right to communicate with other citizen-trustees, collaborate on the creation of policies, programs, and projects, and provide feedback on the ideas and actions of the Cooperative community.
 
-5  Reputation and resilience.  The Cooperative relies on distributed rewards and disincentives; every citizen-trustee may indicate their approval or disapproval of the ideas and actions of others. These evaluations are aggregated into a reputation score that provides a signal to citizen-trustees about the commitment and contribution of each individual to the protection of global collective goods.
+5.  Reputation and resilience.  The Cooperative relies on distributed rewards and disincentives; every citizen-trustee may indicate their approval or disapproval of the ideas and actions of others. These evaluations are aggregated into a reputation score that provides a signal to citizen-trustees about the commitment and contribution of each individual to the protection of global collective goods.
 
-6 Access to information. The Cooperative’s citizen-trustees maintain an open-access, freely editable information repository that provides data on the ongoing and estimated impact of policies, programs, and projects on the value of global collective goods. Cooperative members are responsible for quality control of the repository.
+6. Access to information. The Cooperative’s citizen-trustees maintain an open-access, freely editable information repository that provides data on the ongoing and estimated impact of policies, programs, and projects on the value of global collective goods. Cooperative members are responsible for quality control of the repository.
 
-Article 3. Political Rights & Responsibilities
+### Article 3. Political Rights & Responsibilities
 
-1  Delegative democracy. Citizen-trustees have the right to either vote directly or delegate their voting power to a trusted proxy. Citizen-trustees may also partition their vote if they wish, spreading their voting power over multiple delegates or Council candidates. Only citizen-trustees who have attained a reputation threshold, to be determined by the Cooperative community, may serve as delegates.
+1.  Delegative democracy. Citizen-trustees have the right to either vote directly or delegate their voting power to a trusted proxy. Citizen-trustees may also partition their vote if they wish, spreading their voting power over multiple delegates or Council candidates. Only citizen-trustees who have attained a reputation threshold, to be determined by the Cooperative community, may serve as delegates.
 
-2   Council structure. The Cooperative will establish three council bodies, one each for peace, health, and nature. Each Council contains seven members with equal voting rights. Again, only citizen-trustees who attain a pre-determined reputation threshold may serve as Councilors.
+2.   Council structure. The Cooperative will establish three council bodies, one each for peace, health, and nature. Each Council contains seven members with equal voting rights. Again, only citizen-trustees who attain a pre-determined reputation threshold may serve as Councilors.
 
-3  Council duties. The Councils have the responsibility of meeting once a month to make decisions regarding the coordination and financing of global collective goods 3Ps. The Councils balance the restoration, management, and enhancement of global collective goods with the provision of short-term financial returns to Cooperative shareholders.
+3.  Council duties. The Councils have the responsibility of meeting once a month to make decisions regarding the coordination and financing of global collective goods 3Ps. The Councils balance the restoration, management, and enhancement of global collective goods with the provision of short-term financial returns to Cooperative shareholders.
 
-4   First-stage community voting. In the first stage of the voting process, citizen-trustees have the right to approve or disapprove (or abstain on the judgment) of proposed policies, programs, and projects. Citizen-trustees may directly vote or delegate their vote. Policies, programs, and projects that surpass a specified threshold move to the second round of Council voting.
+4.   First-stage community voting. In the first stage of the voting process, citizen-trustees have the right to approve or disapprove (or abstain on the judgment) of proposed policies, programs, and projects. Citizen-trustees may directly vote or delegate their vote. Policies, programs, and projects that surpass a specified threshold move to the second round of Council voting.
 
-5   Second-stage Council voting. The leading seven vote-getting delegates every month in each Council election are responsible for making the decisions described in Article 3.3.
+5.   Second-stage Council voting. The leading seven vote-getting delegates every month in each Council election are responsible for making the decisions described in Article 3.3.
 
-6  Accountability. All citizen-trustees have the right of instant recall—withdrawal of delegated votes—at any time before a monthly Council begins session, and again once the monthly Council ends session.
+6. Accountability. All citizen-trustees have the right of instant recall—withdrawal of delegated votes—at any time before a monthly Council begins session, and again once the monthly Council ends session.
 
-7   The High Council. Violations of the Constitution, including interference with state sovereignty, as well as major disputes arising between citizen-trustees, are adjudicated by a High Council composed of nine members: the five citizen-trustees with the highest reputation and four individuals nominated by the United Nations General Assembly.
+7.  The High Council. Violations of the Constitution, including interference with state sovereignty, as well as major disputes arising between citizen-trustees, are adjudicated by a High Council composed of nine members: the five citizen-trustees with the highest reputation and four individuals nominated by the United Nations General Assembly.
 
-8   Constitutional reforms. The provisions in the Constitution may be modified by the convening of a special Constitutional Convention. The proposed modifications must first pass a higher threshold than that of regular 3P approval in the first-stage voting procedure described in Article 3.4. The Constitutional Convention is convened when this threshold is exceeded, and all 21 delegates in the three council bodies will vote in the second stage for final ratification of the modifications. Ratification requires a supermajority of 14 of the 21 delegates.
+8.  Constitutional reforms. The provisions in the Constitution may be modified by the convening of a special Constitutional Convention. The proposed modifications must first pass a higher threshold than that of regular 3P approval in the first-stage voting procedure described in Article 3.4. The Constitutional Convention is convened when this threshold is exceeded, and all 21 delegates in the three council bodies will vote in the second stage for final ratification of the modifications. Ratification requires a supermajority of 14 of the 21 delegates.
 
-Article 4. Economic Rights & Responsibilities
+### Article 4. Economic Rights & Responsibilities
 
-1  Investment shareholding. Every citizen-trustee of the Cooperative has the right to buy additional investment shares. Investment shares are valued in a secure digital currency (see Article 4.6) and are able to be fractionally divided; possession of shares does not increase voting power within the Cooperative.
+1.  Investment shareholding. Every citizen-trustee of the Cooperative has the right to buy additional investment shares. Investment shares are valued in a secure digital currency (see Article 4.6) and are able to be fractionally divided; possession of shares does not increase voting power within the Cooperative.
 
-2   Distributing free investment shares. The Cooperative has the responsibility of raising money to distribute investment shares freely to those who cannot afford to purchase them, in line with the objective of the Cooperative to include as many citizen-trustees as possible in the collaborative economy.
+2.   Distributing free investment shares. The Cooperative has the responsibility of raising money to distribute investment shares freely to those who cannot afford to purchase them, in line with the objective of the Cooperative to include as many citizen-trustees as possible in the collaborative economy.
 
-3   Long-term social impact. The Cooperative has the responsibility of increasing the value of global collective goods through financing and implementing effective policies, programs, and projects. This may entail funding some initiatives that do not yield a strong monetary return, i.e., providing grants, concessional loans, or side payments to advance the common interests of the Cooperative.
+3.  Long-term social impact. The Cooperative has the responsibility of increasing the value of global collective goods through financing and implementing effective policies, programs, and projects. This may entail funding some initiatives that do not yield a strong monetary return, i.e., providing grants, concessional loans, or side payments to advance the common interests of the Cooperative.
 
-4   Sustainable returns for shareholders. Where possible and efficient, the Cooperative has the responsibility of creating viable policies, programs, and projects through market mechanisms, and thereby creating financially and environmentally sustainable returns for investment shareholders.
+4.  Sustainable returns for shareholders. Where possible and efficient, the Cooperative has the responsibility of creating viable policies, programs, and projects through market mechanisms, and thereby creating financially and environmentally sustainable returns for investment shareholders.
 
-5  Digital currency. The Cooperative conducts all transactions in a cryptocurrency created specially for the organization.
+5.  Digital currency. The Cooperative conducts all transactions in a cryptocurrency created specially for the organization.
 
-6  The blockchain.  All information generated by the Cooperative, including the cryptocurrency, contractual transactions, the contents of the information repository, policy, program, and project designs, and public discussions are stored in a blockchain.
+6.  The blockchain.  All information generated by the Cooperative, including the cryptocurrency, contractual transactions, the contents of the information repository, policy, program, and project designs, and public discussions are stored in a blockchain.
 
 
-Assessment Criteria
-1. Core Values
+# Assessment Criteria
+## Core Values
 
-Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings.
+_Decisions within the governance model must be guided by the good of all humankind and by respect for the equal value of all human beings._
 
 Human welfare depends on the sustainable management of global collective goods: peace, health, and nature. Our proposal creates a new global institution that stewards these transnational goods for the benefit of all citizens by linking the core values of equality and cooperation.
 
@@ -222,9 +221,9 @@ The intrinsic equality of all human beings requires that each individual be give
 
 Procedural equality, however, is not sufficient to ensure a prosperous future for humanity. The proposed design elevates inter-individual cooperation to a core value and a fundamental governance principle in the creation, curation, and evaluation of collective goods policies, programs, and projects. All members of the Cooperative are allowed—and indeed incentivized—to initiate and edit P3 proposals. The Cooperative is thus a platform for the production of collaborative solutions, providing its members with the opportunity to co-create safeguards against global risks. This new positive liberty—the freedom to cooperate—is central to the emergence of global democracy.
 
-2. Decision-Making Capacity
+## Decision-Making Capacity
 
-Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto).
+_Decision-making within the governance model must generally be possible without crippling delays that prevent the challenges from being adequately addressed (e.g. due to parties exercising powers of veto)._
 
 The Cooperative contains strong decision-making mechanisms throughout the process of creating, choosing, and financing collective goods 3Ps.
 
@@ -234,9 +233,9 @@ Second, final approval of 3Ps occurs through a liquid democratic voting process 
 
 Third, decision-making about financing 3Ps is again handled through a liquid democratic process, instead of being controlled by relatively rigid bureaucracies, as in nation-states and multilateral organizations. Citizen-trustees delegate their vote to Councilors, the most trusted of which make the final decision on financing. The existence of Councils allows for 3Ps to be financed in a coordinated portfolio rather than as isolated projects, which facilitates longer-term thinking about collective goods management. In addition, the small size of these Councils allows for more efficient negotiation and voting. At the same time, however, the delegative structure is highly fluid: ineffective Councilors can be removed at any time based on transparent records of past decisions, and trusted individuals can remain Councilors for extended periods, ensuring a continuity of vision in collective goods management.
 
-3. Effectiveness
+## Effectiveness
 
-The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions.
+_The governance model must be capable of handling the global challenges and risks and include means to ensure implementation of decisions._
 
 This proposal asserts that management of collective goods is an essential part of addressing global challenges and risks. It further argues that neither states nor market actors can perform this function effectively, and proposes the creation of a Global Cooperative of citizen-trustees to fill the gap. Within this framework, effective management can be split into three components: (i) the production of relevant, impactful solutions; (ii) a mechanism to generate global consensus around solutions; and (iii) financial resources to fund the implementation of solutions.
 
@@ -246,17 +245,17 @@ The effectiveness of the Cooperative rests not only on its ability to generate i
 
 Finally, the funding of effective solutions on a global scale requires access to large amounts of capital. We describe how our proposal meets that criterion in the next paragraph.
 
-4. Resources and Financing
+## Resources and Financing
 
-The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner.
+_The governance model must have sufficient human and material resources at its disposal, and these resources must be financed in an equitable manner._
 
 The Cooperative is designed to mobilize adequate human and financial resources for the management of the world’s collective goods. Its potential to do so far exceeds the capacity of any existing global governance institution. The United Nation Secretariat, for example, employs just over 40 thousand staff; the Cooperative may one day rely on tens (or hundreds) of millions of contributors. Digital infrastructure permits such scale, as evidenced by the immense size of online communities; as of this writing, ten online communities had more than 100 million active users, and another 42 had at least 10 million active users [33].  Even very occasional contributions from such a large community will provide the Cooperative with many orders of magnitude more person-hours towards global governance than is possible in multilateral institutions.  
 
 With respect to financial resources, the Cooperative is a viable savings and investment vehicle for individuals wishing to make a social impact. Global savings equal approximately one-quarter of the gross world product, totaling about $27 trillion [34]; the market capitalization of the world’s stock exchanges is $66 trillion [35]. Only a small fraction of these totals would need to be invested in the Cooperative to build a large investment pool for collective goods 3Ps. Even a $1 trillion/year stock of financial capital would represent a budget nearly 200 times greater than that of the United Nations. Unlike funding from multilateral organizations subject to influence from geopolitical interests, or private foundations that determine their spending priorities without meaningful public input, sourcing capital in this manner is fundamentally equitable: most people on Earth have at least some savings, and are therefore entitled to benefit from the value unlocked by the sound management of global collective goods.
 
-5. Trust and Insight
+## Trust and Insight
 
-The trust enjoyed by a successful governance model and its institutions relies on transparency and considerable insight into power structures and decision-making.
+_The trust enjoyed by a successful governance model and its institutions relies on transparency and considerable insight into power structures and decision-making._
 
 Trust is an important component of any robust governance model, but this requirement is particularly critical in distributed systems with a great number of individual actors. This is why every process within the Cooperative is completely transparent: the creation and evaluation of 3Ps, the delegation of voting power to the parliamentary bodies, the decisions made by the bodies, financial transactions, the evolution of reputation, and so on. The framework itself is open-source, as is the information repository and its contents.
 
@@ -266,9 +265,9 @@ Additionally, the blockchain infrastructure provides what has been called “tru
 
 In summary, the proposed governance model aims to establish institutional trust through interpersonal trust. This idea is, arguably, the very foundation of democracy.
 
-6. Flexibility
+## Flexibility
 
-In order to be able to fulfill its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components.
+_In order to be able to fulfill its objectives effectively, a successful governance model must contain mechanisms that allow for revisions and improvements to be made to its structure and components._
 
 Current global governance structures lack institutional flexibility, either because of the power of veto players (e.g., the members of the U.N. Security Council) or bureaucratic inertia. The Cooperative avoids these pitfalls by being (i) both transnational and transpartisan, and (ii) non-bureaucratic.
 
@@ -278,9 +277,9 @@ A second key characteristic of the Cooperative is its thin bureaucratic infrastr
 
 In contrast to traditional international organizations controlled by nation-states and burdened by ponderous bureaucracies, the Cooperative acts as a lively network of ideas, endowed with a flexible consensus mechanism and vigilant against internal threats of obstruction and vested interest.
 
-7. Protection against the Abuse of Power
+## Protection against the Abuse of Power
 
-A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states.
+_A control system must be in place to take action if the organization should overstep its mandate, e.g. by unduly interfering with the internal affairs of nation-states or favouring the special interests of individuals, groups, organizations, states or groups of states._
 
 The Cooperative is a fundamentally inclusive entity, in which every man or woman in the world is entitled to a voice as a citizen-trustee. Moreover, every decision is made through completely transparent processes and involves the consent of the whole community, from the design of 3Ps to their final selection.  For these reasons, the Cooperative is not strongly vulnerable to collusion and the influence of special interests.
 
@@ -288,9 +287,9 @@ However, the Cooperative’s design does contain two layers of protection agains
 
 Secondly, the Cooperative has no authority to raise taxes or fund itself without citizen-trustee support; its existence depends on the consent of individuals, as manifest through the buying of investment shares. If the Cooperative proves ineffective at managing the world’s collective goods—or, worse, proves dangerous for the human community as a whole—the withdrawal of capital by investors would immediately halt its operation. The Cooperative has a mandate to exercise governance over global collective goods, yet remains fully accountable through normal market mechanisms.
 
-8. Accountability
+## Accountability
 
-It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions.
+_It is a fundamental requirement of a successful governance model that it performs the tasks it has been charged with, and the governance model must include the power to hold the decision-makers accountable for their actions._
 
 Accountability is a basic determinant of trust and a necessary safeguard against corruption, collusion, and other actions that would undermine the mission of the Cooperative. The organization has three strong mechanisms in place to ensure accountability, the first for citizen-trustees, the second for Councilors, and the last for the community as a whole.
 
