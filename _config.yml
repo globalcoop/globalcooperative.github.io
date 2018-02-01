@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -44,3 +45,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+remote_theme:nielsenramon/chalk
+>>>>>>> 38a5b00b3183d9b3a5cb9bad9be3033bc17ecd76
